@@ -123,7 +123,7 @@ qsl_app_with_llm/
 ├── app.py                 # Application Streamlit principale
 ├── requirements.txt       # Dépendances Python
 ├── README.md              # Documentation
-└── examples/              # Exemples de bases de données pour tester
+└── database.qlite              # Exemples de bases de données pour tester
 ```
 
 ## 📊 Performances
